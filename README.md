@@ -8,7 +8,6 @@ This project analyzes website analytics data to uncover actionable insights usin
 website-data-analysis-using-python/
 
 
-│
 ├── website_data.csv                    # Raw and cleaned datasets (CSV)
 
 ├── website-data-analysis-using-python.ipynb                # Jupyter notebooks for exploration and EDA
@@ -29,7 +28,8 @@ website-data-analysis-using-python/
 
  Clean and modular Python code using Pandas, Plotly, Seaborn, Matplotlib
 
-Dataset Overview
+🧪 Dataset Overview
+
 
 The dataset includes:
 
