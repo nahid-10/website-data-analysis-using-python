@@ -1,12 +1,16 @@
 # website-data-analysis-using-python
 📊 Website Data Analysis using Python
 This project analyzes website analytics data to uncover actionable insights using Python. It leverages data visualization and statistical techniques to understand user behavior, channel performance, session engagement, and more.
+
+
 📁 Project Structure
 website-data-analysis-using-python/
 │
 ├── website_data.csv                    # Raw and cleaned datasets (CSV)
 ├── website-data-analysis-using-python.ipynb                # Jupyter notebooks for exploration and EDA
 ├── README.md                 # Project overview
+
+
 
 🔍 Key Features
  Trend analysis of sessions and users over time
@@ -33,6 +37,8 @@ avg_engagement_time: Average time spent on site (in seconds)
 engagement_rate: % of sessions with meaningful interactions
 
 datetime: Timestamp (used for time series analysis)
+
+
 
 🧠 Insights Discovered
 1.Which channel drives the most users
