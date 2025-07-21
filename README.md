@@ -4,7 +4,9 @@ This project analyzes website analytics data to uncover actionable insights usin
 
 
 📁 Project Structure
+
 website-data-analysis-using-python/
+
 │
 ├── website_data.csv                    # Raw and cleaned datasets (CSV)
 ├── website-data-analysis-using-python.ipynb                # Jupyter notebooks for exploration and EDA
@@ -13,6 +15,7 @@ website-data-analysis-using-python/
 
 
 🔍 Key Features
+
  Trend analysis of sessions and users over time
 
  Channel group performance (users, sessions, engagement rate)
@@ -24,6 +27,7 @@ website-data-analysis-using-python/
  Clean and modular Python code using Pandas, Plotly, Seaborn, Matplotlib
 
 Dataset Overview
+
 The dataset includes:
 
 channel_group: Source of traffic (e.g., Organic, Paid, Referral)
@@ -41,6 +45,7 @@ datetime: Timestamp (used for time series analysis)
 
 
 🧠 Insights Discovered
+
 1.Which channel drives the most users
 
 2.Which channel has the highest engagement time
